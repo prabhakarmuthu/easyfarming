@@ -5,3 +5,5 @@ enter password
 click login
 
 search prodcut
+
+select prodcut 
